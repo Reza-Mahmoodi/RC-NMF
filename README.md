@@ -1,4 +1,3 @@
-## RC-NMF
 ## A Regularized Convex Nonnegative Matrix Factorization Model for signed network analysis (2021)
 - author=Wang, Jia and Mu, Rongjian
 - journal=Social Network Analysis and Mining
